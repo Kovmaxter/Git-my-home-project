@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+.car-item {
+    width: 45%;
+    height: 20%;
+    text-align: center;
+    margin: 0 2% 30px 2%;
+    box-sizing: border-box;
+}
+img {
+    width: 100%;
+}
+figcaption {
+    text-align: start;
+    color: chocolate;
+}
+
